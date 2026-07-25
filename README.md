@@ -247,49 +247,49 @@ CLOUDINARY_API_SECRET=YOUR_SECRET
 
 ## 🏠 Home Page
 
-![Home](assets/screenshots/home.png)
+![Home](dist/assets/screenshots/home.png)
 
 ---
 
 ## 🛍 Products
 
-![Products](assets/screenshots/products.png)
+![Products](dist/assets/screenshots/products.png)
 
 ---
 
 ## 📄 Product Details
 
-![Product Details](assets/screenshots/product-details.png)
+![Product Details](dist/assets/screenshots/product-details.png)
 
 ---
 
 ## 🛒 Shopping Cart
 
-![Cart](assets/screenshots/cart.png)
+![Cart](dist/assets/screenshots/cart.png)
 
 ---
 
 ## 🔐 Login
 
-![Login](assets/screenshots/login.png)
+![Login](dist/assets/screenshots/login.png)
 
 ---
 
 ## 📝 Register
 
-![Register](assets/screenshots/register.png)
+![Register](dist/assets/screenshots/register.png)
 
 ---
 
 ## 💼 Sales Dashboard
 
-![Sales Dashboard](assets/screenshots/sales-dashboard.png)
+![Sales Dashboard](dist/assets/screenshots/sales-dashboard.png)
 
 ---
 
 ## 👑 Admin Dashboard
 
-![Admin Dashboard](assets/screenshots/admin-dashboard.png)
+![Admin Dashboard](dist/assets/screenshots/admin-dashboard.png)
 
 ---
 
