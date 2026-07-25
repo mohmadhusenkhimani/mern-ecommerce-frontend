@@ -245,15 +245,51 @@ CLOUDINARY_API_SECRET=YOUR_SECRET
 
 # 📸 Screenshots
 
-> Add screenshots here after deployment.
+## 🏠 Home Page
 
-- Home Page
-- Login
-- Register
-- Customer Dashboard
-- Sales Dashboard
-- Admin Dashboard
-- Product Page
+![Home](assets/screenshots/home.png)
+
+---
+
+## 🛍 Products
+
+![Products](assets/screenshots/products.png)
+
+---
+
+## 📄 Product Details
+
+![Product Details](assets/screenshots/product-details.png)
+
+---
+
+## 🛒 Shopping Cart
+
+![Cart](assets/screenshots/cart.png)
+
+---
+
+## 🔐 Login
+
+![Login](assets/screenshots/login.png)
+
+---
+
+## 📝 Register
+
+![Register](assets/screenshots/register.png)
+
+---
+
+## 💼 Sales Dashboard
+
+![Sales Dashboard](assets/screenshots/sales-dashboard.png)
+
+---
+
+## 👑 Admin Dashboard
+
+![Admin Dashboard](assets/screenshots/admin-dashboard.png)
 
 ---
 
